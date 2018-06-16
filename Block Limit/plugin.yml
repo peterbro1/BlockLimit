@@ -1,0 +1,6 @@
+name: BlockLimiter
+main: me.gmx.blocklimit.BlockLimit
+version: 0.01a
+author: GMX
+commands:
+  limit:

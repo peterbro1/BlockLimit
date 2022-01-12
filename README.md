@@ -3,4 +3,5 @@ I made this plugin for the official TNTC server. It's currently in use. The purp
 - Configurable blocks, configurable instances. 
 
 
-Won't add any maven scripts as I no longer support this plugin. Feel free to use it as a library
+
+There is no documentation or support as this was a privately contracted project never meant to be shared publicly. This is now abandoned, and I do not plan to maintain it.
